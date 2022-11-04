@@ -11,11 +11,8 @@
 /results
 /storage/oauth-private.key
 /storage/oauth-public.key
-/tests/cypress/screenshots
-/tests/cypress/videos
 /vendor
 .composer
-.env
 .deploy.json
 .DS_Store
 .idea
